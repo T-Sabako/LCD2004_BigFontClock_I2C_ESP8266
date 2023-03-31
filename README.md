@@ -2,7 +2,7 @@
 
 **Reference Program Code**
 
-  [https://www.instructables.com/Custom-Large-Font-For-16x2-LCDs/](https://drive.google.com/file/d/1hmJZKAjXa02dAP9_a7x6qY9iI0tPq6CO/view)
+  https://drive.google.com/file/d/1hmJZKAjXa02dAP9_a7x6qY9iI0tPq6CO/view
   
 **LCD Custom Character Generator**
 
