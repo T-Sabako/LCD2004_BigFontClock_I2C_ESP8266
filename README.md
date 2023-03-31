@@ -1,1 +1,1 @@
-# LCD2004_BigFontClock_I2C_ESP8266
+# WeMos D1 mini(ESP8266) + I2C LCD 2004 Large Font Clock
